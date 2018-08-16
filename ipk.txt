@@ -1,3 +1,4 @@
-https://dogefloodgate.000webhostapp.com/faucet.php?&address=DGF3MjVZQAPywUy2LdsXCEwtBdpPdETfuZ&currency=DOGE&key=9887a4e0e28681a5242dd8080c5c48a7|npazone|60
-https://xdogefaucet.000webhostapp.com/faucet.php?&address=DGF3MjVZQAPywUy2LdsXCEwtBdpPdETfuZ&currency=DOGE&r=DAjmFAyKVv9B6gUyDYfcaUBmbJLhwgtxCe&rc=DOGE|npazone|60
-http://coinhub.win/faucet.php?address=DGF3MjVZQAPywUy2LdsXCEwtBdpPdETfuZ&currency=DOGE&key=b3eccaed18ff86147a3873f5c59114c0|npazone|180
+https://dogefloodgate.000webhostapp.com/faucet.php?&address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=012c940669a763c1f01adec8307ab78a|npazone|60
+http://coinhub.win/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=f6f12edabde86da96fbccc0dd3cfeec3|npazone|180
+http://www.autodogecash.ml/faucet.php?&address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=012c940669a763c1f01adec8307ab78a|npazone|30
+http://getdogecoin.website/mining/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=f6f12edabde86da96fbccc0dd3cfeec3|npazone|240
