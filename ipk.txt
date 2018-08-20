@@ -4,3 +4,6 @@ http://www.autodogecash.ml/faucet.php?&address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN
 http://getdogecoin.website/mining/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=f6f12edabde86da96fbccc0dd3cfeec3|npazone|240
 http://autoclaim.win/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=f6f12edabde86da96fbccc0dd3cfeec3|npazone|600
 http://wolf-faucet.win/auto/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=012c940669a763c1f01adec8307ab78a#787b4a48e6cff1c83157625de24b7e47,http://bestadbid.com/afu.php?zoneid=1119054&var=357451|npazone|360
+http://autoclaim.win/faucet.php?address=0x1a84d4f5d8d75ac0c2251ed2c2cf421c8fc9fa9b&currency=ETH&key=f39b00facac01473c843533d4f1d6d45|npazone|600
+http://wolf-faucet.win/auto/faucet.php?address=0x1a84d4f5d8d75ac0c2251ed2c2cf421c8fc9fa9b&currency=ETH&key=c6e0302b19cd266534f3b89587da7822|npazone|360
+https://autofaucet.org/faucet/3/DOGE/DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2/947b0f52b3af3906d90144cb5c44cb14|npazone|120
