@@ -9,3 +9,5 @@ http://wolf-faucet.win/auto/faucet.php?address=0x1a84d4f5d8d75ac0c2251ed2c2cf421
 https://autofaucet.org/faucet/3/DOGE/DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2/947b0f52b3af3906d90144cb5c44cb14|npazone|120
 http://faucethubautos.000webhostapp.com/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=c66a6c7d1b772089c0b886a8bda11e9a|npazone|17
 http://autofaucet.xyz/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=012c940669a763c1f01adec8307ab78a|npazone|20
+https://monsterbooster.000webhostapp.com/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=012c940669a763c1f01adec8307ab78a|npazone|5
+https://immune-subtasks.000webhostapp.com/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=012c940669a763c1f01adec8307ab78a|npazone|5
