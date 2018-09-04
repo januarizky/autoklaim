@@ -12,3 +12,4 @@ http://autofaucet.xyz/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&curr
 https://monsterbooster.000webhostapp.com/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=012c940669a763c1f01adec8307ab78a|npazone|5
 https://immune-subtasks.000webhostapp.com/faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=012c940669a763c1f01adec8307ab78a|npazone|5
 https://mdeisy1983doge.000webhostapp.com//faucet.php?address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=012c940669a763c1f01adec8307ab78a|npazone|45
+https://mdeisy1983pot.000webhostapp.com//faucet.php?address=PCe5Ly8Lf5oSw82MX9SPqWfRHbnN4AQznS&currency=POT&key=4c882c533f55a3bb6d8b106e57787fd1|npazone|45
