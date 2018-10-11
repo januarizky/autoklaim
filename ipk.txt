@@ -3,4 +3,5 @@ http://auto.eaglezz.com/faucet.php?address=LctYwSmuQPb7PVK1vrRQ6ijbKNrTGJsCxC&cu
 https://dutchyfaucet.000webhostapp.com//faucet.php?coinhive-captcha-token=ieIEZn6LAaWmbHLvnkDcyyV4JrQX2Utx&address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=2fd34da060ce2875bd29feece7200903|npazone|20
 https://faucet.dutchycorp.space//faucet.php?r=D9oBv5x4g754WojWHrMo8QzuaA3m3giaYW3&rc=DOGE&coinhive-captcha-token=I2QPCdjq2wi2OP1shwgmIjBugCcVkf4p&address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=2fd34da060ce2875bd29feece7200903|npazone|40
 https://dutchy-earn.000webhostapp.com//faucet.php?r=D9oBv5x4g754WojWHrMo8QzuaA3m3giaYW3&rc=DOGE&coinhive-captcha-token=dv7Pt8CNztgjIIJBW5AKkjMCfcGww7jh&address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=2fd34da060ce2875bd29feece7200903|npazone|120
-http://deadsats.com/autofaucet/faucet.php?r=D9oBv5x4g754WojWHrMo8QzuaA3m3giaYW&rc=doge&address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=5b90cc8dd411ce6f4b2da1f26c2a4929|60
+http://deadsats.com/autofaucet/faucet.php?r=D9oBv5x4g754WojWHrMo8QzuaA3m3giaYW&rc=doge&address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=5b90cc8dd411ce6f4b2da1f26c2a4929|npazone|60
+https://dogebite.000webhostapp.com//faucet.php?r=D9oBv5x4g754WojWHrMo8QzuaA3m3giaYW&rc=DOGE&address=DTbe6vkJzSF8zHGz1CGfDMD6n99uDyypN2&currency=DOGE&key=1535b554414498ec7c1518423b3f6c87|npazone|60
